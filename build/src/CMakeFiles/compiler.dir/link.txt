@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcompiler.a CMakeFiles/compiler.dir/lex/lexer.cpp.o CMakeFiles/compiler.dir/parse/parse_decl.cpp.o CMakeFiles/compiler.dir/parse/parse_expr.cpp.o CMakeFiles/compiler.dir/parse/parse_stmt.cpp.o CMakeFiles/compiler.dir/parse/parser_aux.cpp.o
+/usr/bin/ranlib libcompiler.a

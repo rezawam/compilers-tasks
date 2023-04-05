@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/2004np/Programming/compilers-tasks/build/src",
+  "command": "/usr/local/Cellar/gcc/11.3.0_1/bin/g++-11 -DFMT_SHARED -I/Users/2004np/Programming/compilers-tasks/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -std=c++20 -o CMakeFiles/compiler.dir/lex/lexer.cpp.o -c /Users/2004np/Programming/compilers-tasks/src/lex/lexer.cpp",
+  "file": "/Users/2004np/Programming/compilers-tasks/src/lex/lexer.cpp"
+},
+{
+  "directory": "/Users/2004np/Programming/compilers-tasks/build/src",
+  "command": "/usr/local/Cellar/gcc/11.3.0_1/bin/g++-11 -DFMT_SHARED -I/Users/2004np/Programming/compilers-tasks/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -std=c++20 -o CMakeFiles/compiler.dir/parse/parse_decl.cpp.o -c /Users/2004np/Programming/compilers-tasks/src/parse/parse_decl.cpp",
+  "file": "/Users/2004np/Programming/compilers-tasks/src/parse/parse_decl.cpp"
+},
+{
+  "directory": "/Users/2004np/Programming/compilers-tasks/build/src",
+  "command": "/usr/local/Cellar/gcc/11.3.0_1/bin/g++-11 -DFMT_SHARED -I/Users/2004np/Programming/compilers-tasks/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -std=c++20 -o CMakeFiles/compiler.dir/parse/parse_expr.cpp.o -c /Users/2004np/Programming/compilers-tasks/src/parse/parse_expr.cpp",
+  "file": "/Users/2004np/Programming/compilers-tasks/src/parse/parse_expr.cpp"
+},
+{
+  "directory": "/Users/2004np/Programming/compilers-tasks/build/src",
+  "command": "/usr/local/Cellar/gcc/11.3.0_1/bin/g++-11 -DFMT_SHARED -I/Users/2004np/Programming/compilers-tasks/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -std=c++20 -o CMakeFiles/compiler.dir/parse/parse_stmt.cpp.o -c /Users/2004np/Programming/compilers-tasks/src/parse/parse_stmt.cpp",
+  "file": "/Users/2004np/Programming/compilers-tasks/src/parse/parse_stmt.cpp"
+},
+{
+  "directory": "/Users/2004np/Programming/compilers-tasks/build/src",
+  "command": "/usr/local/Cellar/gcc/11.3.0_1/bin/g++-11 -DFMT_SHARED -I/Users/2004np/Programming/compilers-tasks/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -std=c++20 -o CMakeFiles/compiler.dir/parse/parser_aux.cpp.o -c /Users/2004np/Programming/compilers-tasks/src/parse/parser_aux.cpp",
+  "file": "/Users/2004np/Programming/compilers-tasks/src/parse/parser_aux.cpp"
+},
+{
+  "directory": "/Users/2004np/Programming/compilers-tasks/build/app",
+  "command": "/usr/local/Cellar/gcc/11.3.0_1/bin/g++-11 -DFMT_SHARED -I/Users/2004np/Programming/compilers-tasks/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -std=c++20 -o CMakeFiles/repl.dir/repl.cpp.o -c /Users/2004np/Programming/compilers-tasks/app/repl.cpp",
+  "file": "/Users/2004np/Programming/compilers-tasks/app/repl.cpp"
+},
+{
+  "directory": "/Users/2004np/Programming/compilers-tasks/build/tests",
+  "command": "/usr/local/Cellar/gcc/11.3.0_1/bin/g++-11 -DFMT_SHARED -I/Users/2004np/Programming/compilers-tasks/src -isystem /usr/local/include -isystem /opt/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -std=c++20 -o CMakeFiles/tests.dir/lex/cases.cpp.o -c /Users/2004np/Programming/compilers-tasks/tests/lex/cases.cpp",
+  "file": "/Users/2004np/Programming/compilers-tasks/tests/lex/cases.cpp"
+},
+{
+  "directory": "/Users/2004np/Programming/compilers-tasks/build/tests",
+  "command": "/usr/local/Cellar/gcc/11.3.0_1/bin/g++-11 -DFMT_SHARED -I/Users/2004np/Programming/compilers-tasks/src -isystem /usr/local/include -isystem /opt/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -std=c++20 -o CMakeFiles/tests.dir/main.cpp.o -c /Users/2004np/Programming/compilers-tasks/tests/main.cpp",
+  "file": "/Users/2004np/Programming/compilers-tasks/tests/main.cpp"
+}
+]

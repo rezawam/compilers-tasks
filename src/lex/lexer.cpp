@@ -36,7 +36,7 @@ Token Lexer::GetPreviousToken() {
 ////////////////////////////////////////////////////////////////////
 
 void Lexer::Advance() {
-  std::abort();  // Your code goes here
+  scanner_.MoveRight();
 }
 
 ////////////////////////////////////////////////////////////////////
@@ -93,7 +93,16 @@ std::optional<Token> Lexer::MatchLiterls() {
 ////////////////////////////////////////////////////////////////////
 
 std::optional<Token> Lexer::MatchNumericLiteral() {
-  std::abort();  // Your code goes here
+  while (isdigit(scanner_.NextSymbol())) 
+    Advance();
+  if (scanner_.NextSymbol() == '.') {
+    Advance();
+    while (isdigit(scanner_.NextSymbol()))
+      Advance();
+  }
+  Token tok = { TokenType::NUMBER, scanner_.GetLiteral(), scanner_.GetLine(), scanner_.GetPos() };
+  return tok;
+  //scanner_.ScanToken(TokenType::NUMBER, );
 }
 
 ////////////////////////////////////////////////////////////////////

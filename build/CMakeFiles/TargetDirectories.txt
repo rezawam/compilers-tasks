@@ -1,0 +1,11 @@
+/Users/2004np/Programming/compilers-tasks/build/CMakeFiles/edit_cache.dir
+/Users/2004np/Programming/compilers-tasks/build/CMakeFiles/rebuild_cache.dir
+/Users/2004np/Programming/compilers-tasks/build/src/CMakeFiles/compiler.dir
+/Users/2004np/Programming/compilers-tasks/build/src/CMakeFiles/edit_cache.dir
+/Users/2004np/Programming/compilers-tasks/build/src/CMakeFiles/rebuild_cache.dir
+/Users/2004np/Programming/compilers-tasks/build/app/CMakeFiles/repl.dir
+/Users/2004np/Programming/compilers-tasks/build/app/CMakeFiles/edit_cache.dir
+/Users/2004np/Programming/compilers-tasks/build/app/CMakeFiles/rebuild_cache.dir
+/Users/2004np/Programming/compilers-tasks/build/tests/CMakeFiles/tests.dir
+/Users/2004np/Programming/compilers-tasks/build/tests/CMakeFiles/edit_cache.dir
+/Users/2004np/Programming/compilers-tasks/build/tests/CMakeFiles/rebuild_cache.dir
